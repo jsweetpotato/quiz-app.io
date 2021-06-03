@@ -21,4 +21,4 @@ const quizData = [
         d: 'Helicopters Terminals Motorboats Lamborginis',
         correct: 'a'
     }
-]
+];
