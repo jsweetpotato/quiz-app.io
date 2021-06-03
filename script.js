@@ -20,6 +20,5 @@ const quizData = [
         c: 'Jason Object Notation',
         d: 'Helicopters Terminals Motorboats Lamborginis',
         correct: 'a'
-
     }
 ]
